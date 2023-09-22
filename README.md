@@ -1,5 +1,5 @@
 # 📚 Proyek Bookshelf API
-Ini adalah proyek akhir yang dibuat sebagai bagian dari kelas "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud" di *Dicoding*.
+Ini adalah proyek akhir yang dibuat sebagai bagian dari kelas "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud" di **Dicoding**.
 
 ## 🥇 Fitur Utama
 
